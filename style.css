@@ -116,6 +116,13 @@ button:hover {
   display: inline-block;
   margin-left: 50px;
   padding: 0;
+  text-align: center;
+}
+
+.container-center .secao-2{
+  align-items: center;
+  margin-left: 400px;
+  text-align: center;
 }
 
 h2#secao-2 {
@@ -130,7 +137,6 @@ h2#secao-2 {
 
 section#secao-2 {
   display: inline-flex;
-  margin-left: 193px;
 }
 
 .div-1,
